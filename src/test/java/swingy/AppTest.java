@@ -1,4 +1,4 @@
-package com.wethinkcode;
+package swingy;
 
 import static org.junit.Assert.assertTrue;
 
